@@ -21,7 +21,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >KNOWN TECHNOLOGIES👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@
 </p>
 <br>
 <!-------------------------->
-<h2>GitHub :octocat:</h2>
+<h2>GITHUB :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
