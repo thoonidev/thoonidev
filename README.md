@@ -8,7 +8,7 @@
 alt="thooonii"  /></a>
 <a href = "mailto:thooonii@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 alt="@thooonii"  /></a>
-<a href="https://www.instagram.com/@thooonii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="@thooonii"  /></a>  
+<a href="https://www.instagram.com/@thooonii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-FF5A21?style=for-the-badge&logo=instagram&logoColor=white" alt="@thooonii"  /></a>  
 </p>
 <br>
 <h2>ABOUT ME😃</h2>
