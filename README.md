@@ -19,7 +19,7 @@ alt="@thooonii"  /></a>
 
 💻 BROAD KNOWLEDGE THANKS TO CARRYING OUT PROJECTS
 
-📫 CONTACT: **thooonii@gmail.com**
+📫 CONTACT: **aalanya1398@gmail.com**
 <!--Intro end-->
   </p>
 <br>
