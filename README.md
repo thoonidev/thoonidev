@@ -19,7 +19,7 @@ alt="@thcccnii"  /></a>
 
 💻 BROAD KNOWLEDGE THANKS TO CARRYING OUT PROJECTS
 
-📫 CONTACT: **aalanya1398@gmail.com**
+📫 CONTACT: **anthony.abel.alanya@gmail.com**
 <!--Intro end-->
   </p>
 <br>
