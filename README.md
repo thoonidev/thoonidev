@@ -137,12 +137,14 @@ Cuando tengas listos tus proyectos, descomenta este bloque y cambia "NOMBRE-DEL-
   <img src="https://streak-stats.demolab.com/?user=thoonidev&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/thoonidev/thoonidev/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <p align="center"> <img src="https://trophy.ryglcloud.net/?username=thoonidev&theme=tokyonight" alt="GitHub Profile Trophies" /> </p>
 
