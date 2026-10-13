@@ -137,7 +137,8 @@ Cuando tengas listos tus proyectos, descomenta este bloque y cambia "NOMBRE-DEL-
   <img src="https://streak-stats.demolab.com/?user=thoonidev&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<!-- ACTIVITY GRAPH --> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thoonidev&theme=tokyo-night" alt="GitHub Activity Graph" /> </p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 <p align="center"> <img src="https://trophy.ryglcloud.net/?username=thoonidev&theme=tokyonight" alt="GitHub Profile Trophies" /> </p>
 
