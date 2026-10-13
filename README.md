@@ -138,6 +138,10 @@ Cuando tengas listos tus proyectos, descomenta este bloque y cambia "NOMBRE-DEL-
 </p>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 
 <p align="center"> <img src="https://trophy.ryglcloud.net/?username=thoonidev&theme=tokyonight" alt="GitHub Profile Trophies" /> </p>
